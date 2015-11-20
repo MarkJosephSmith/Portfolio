@@ -1,10 +1,12 @@
 # Portfolio
+<head>
 <style>
 under
 {
   text-decoration: underline;
 }
 </style>
+</head>
 <p><strong><under>A simple public repository to showcase my projects.</strong></under></p>
 
 <p>My name is Mark Smith.  I live in Salt Lake City and am currently studying computer science in the hopes that, some day, someone will pay me money to make video games.  </p>

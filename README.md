@@ -1,7 +1,10 @@
 # Portfolio
-A public repository to showcase my projects.
+<h>A public repository to showcase my projects.</h>
 <p></p>
-Something to keep you smiling after long hours of coding.
+My name is Mark Smith.  I live in Salt Lake City and am currently studying computer science in the hopes that, some day,
+someone will pay me money to make video games.  
+<p></p>
+Something that keeps me smiling after long hours of coding.
 <p></p>
 <img src="https://camo.githubusercontent.com/18efa8e1dcced745ef1526da5be18d5e4138268f/687474703a2f2f692e696d6775722e636f6d2f63786566464f592e6a70673b" alt="Alt Text" data-canonical-src="http://i.imgur.com/cxefFOY.jpg;" style="max-width:100%;">
 <p></p>

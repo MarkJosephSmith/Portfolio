@@ -1,13 +1,14 @@
 # Portfolio
+<html>
 <head>
 <style>
-under
-{
-  text-decoration: underline;
+u3{
+        text-decoration: underline;
 }
 </style>
 </head>
-<p><strong><under>A simple public repository to showcase my projects.</strong></under></p>
+<body>
+<p><u3>A simple public repository to showcase my projects.</u3></p>
 
 <p>My name is Mark Smith.  I live in Salt Lake City and am currently studying computer science in the hopes that, some day, someone will pay me money to make video games.  </p>
 
@@ -25,3 +26,5 @@ Finally, something that keeps me smiling in the middle of long hours of coding:
 <p>Equal time:</p>
 <img src="https://camo.githubusercontent.com/70771690165dcdbac1fc9d5f32dd699d2780fb89/687474703a2f2f692e696d6775722e636f6d2f4e4c39694452582e6a70673b" alt="Alt Text" data-canonical-src="http://i.imgur.com/NL9iDRX.jpg;" style="max-width:100%;">
 <p></p>
+<body>
+</html>

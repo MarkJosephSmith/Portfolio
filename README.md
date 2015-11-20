@@ -1,8 +1,7 @@
 # Portfolio
-<p><b><u>A simple public repository to showcase my projects.</b></u></p>
+<p><strong><ins>A simple public repository to showcase my projects.</strong></ins></p>
 
-<p>My name is Mark Smith.  I live in Salt Lake City and am currently studying computer science in the hopes that, 
-some day, someone will pay me money to make video games.  </p>
+<p>My name is Mark Smith.  I live in Salt Lake City and am currently studying computer science in the hopes that, some day, someone will pay me money to make video games.  </p>
 
 <!-- add link to resume -->
 

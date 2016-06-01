@@ -4,11 +4,12 @@
 
 <p>My name is Mark Smith.  I live in Salt Lake City and am currently studying computer science in the hopes that, some day, someone will pay me money to make video games.  </p>
 
-<!-- add link to resume -->
+
 
 <!-- add link to kitty quest -->
 
-<!-- add link to Malloc Circles -->
+<p>The "circles" folder contains code for a circular dependency checker for the server side of an online spread sheet. This object sits running on the server and checks every change for circular cell dependencies. While I contributed to many parts of the spread sheet project this compact little class is entirely mine and I'm proud of how it came out.</p>
+<p>You can find a link to the whole to the whole client/server model multi-user spread sheet here: https://github.com/timbo24/CollabSS/tree/master/server/circles </p>
 
 <!-- add information about chromata -->
 
